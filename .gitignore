@@ -1,0 +1,37 @@
+# Unreal Engine 5.6 - Cartelle generate
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Progetti locali / IDE
+*.opensdf
+*.sdf
+*.log
+*.vsconfig
+.vscode/
+.vs/
+.idea/
+
+# File temporanei
+*.tmp
+*.user
+*.userprefs
+*.backup
+
+# Configurazioni locali di UE
+*.ini
+*.sln
+*.xcodeproj
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Git LFS tracciati (assicurati che LFS sia abilitato)
+*.uasset
+*.umap
