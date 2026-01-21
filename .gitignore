@@ -20,7 +20,6 @@ Saved/
 *.backup
 
 # Configurazioni locali di UE
-*.ini
 *.sln
 *.xcodeproj
 
@@ -31,7 +30,3 @@ Saved/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
-
-# Git LFS tracciati (assicurati che LFS sia abilitato)
-*.uasset
-*.umap
