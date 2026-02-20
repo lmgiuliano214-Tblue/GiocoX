@@ -30,3 +30,8 @@ Saved/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+/Intermediate/
+/Saved/
+/DerivedDataCache/
+*.log
